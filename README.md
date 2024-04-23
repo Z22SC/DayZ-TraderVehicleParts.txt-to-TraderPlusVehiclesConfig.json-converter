@@ -1,13 +1,5 @@
-Download the python script from my github.
+Make sure your input file is called TraderVehicleParts.txt or you will get no output file
 
-Install Python from https://www.python.org/downloads/ if you don't already have it.
+Either drag your input file onto the ConvertTraderVehiclePartsv0.3 executable and your output file will be created in the same folder as your input file. Or put the executable and the input file in the same location and run the exectable to create the output in whichever folder they are in when you run the converter.
 
-install Visual Studio COde from https://code.visualstudio.com/ if you dont already have it.
-
-Open Visual Studio Code and click the extensions button on the left, search for Python and install the Python Extenstion.
-
-Make sure your input file is called "TraderVehicleParts.txt" and is in the same fodler as the script.
-
-Press F5 to run the script. Your output file called "TraderPlusVehiclesConfig.json" should be in the same folder as the script and your original input file.
-
-Manually check the file for errors. This script is by no means perfect or finished and may need to be updated.
+Dont complain if it doesnt work perfectly, this is the first .exe file I have ever created XD
